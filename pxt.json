@@ -1,0 +1,25 @@
+{
+    "name": "kiwiphoenix364/pxt-mini-tilemaps",
+    "version": "1.0.3",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "assets.json",
+        "Imported-Extensions.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
